@@ -6,7 +6,7 @@ To run this project locally, follow these steps.
 cd polygon-ethereum-nextjs-marketplace
 
 # install using NPM or Yarn
-npm install
+1. npm install
 
 # or
 
