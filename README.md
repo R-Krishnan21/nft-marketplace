@@ -1,4 +1,4 @@
-## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
+## Full stack NFT marketplace built with Solidity,Hardhat, IPFS, & Next.js
 
 To run this project locally, follow these steps.
 
